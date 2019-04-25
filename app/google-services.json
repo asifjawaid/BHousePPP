@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190910915411",
+    "firebase_url": "https://bhouseppp.firebaseio.com",
+    "project_id": "bhouseppp",
+    "storage_bucket": "bhouseppp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190910915411:android:c77167305788d149",
+        "android_client_info": {
+          "package_name": "com.alidevs.bhouseppp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190910915411-r4cva7fop68tsjrab7hcqujr5031bimd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alidevs.bhouseppp",
+            "certificate_hash": "d68b320e0cf364adc1d39b1c63cad92057a48365"
+          }
+        },
+        {
+          "client_id": "190910915411-87rg3koavnsgv2v20hjsm1vv90ipdfc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASysvpSIqeh6HMuZx50pwkEMzq1osI568"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190910915411-87rg3koavnsgv2v20hjsm1vv90ipdfc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
